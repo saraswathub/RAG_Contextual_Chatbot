@@ -10,7 +10,7 @@ This repository contains a fully runnable local RAG chatbot demo. It runs **enti
 
 ## What I built
 
-A privacy-first contextual chatbot that ingests documents, creates embeddings, stores them in Chroma, and answers user queries by retrieving relevant chunks and generating grounded answers. It shows retrieved source snippets so interviewers can verify claims easily.
+A privacy-first contextual chatbot that ingests documents, creates embeddings, stores them in Chroma, and answers user queries by retrieving relevant chunks and generating grounded answers.
 
 ## Requirements & Setup (complete, exact)
 
