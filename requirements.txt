@@ -1,0 +1,9 @@
+langchain>=0.0.280
+streamlit>=1.20
+chromadb>=0.3.24
+sentence-transformers>=2.2.2
+transformers>=4.30.0
+torch>=1.13.0
+python-dotenv
+tqdm
+ftfy
